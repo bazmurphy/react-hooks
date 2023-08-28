@@ -1,0 +1,45 @@
+.app {
+  padding: 1rem;
+  background-color: hsla(0, 0%, 100%, 0.2);
+  display: grid;
+  row-gap: 1rem;
+  border: 0.25rem solid hsla(0, 0%, 100%, 0.2);
+}
+
+header {
+  display: flex;
+  align-items: center;
+}
+
+header > h1 {
+  padding-left: 0.5rem;
+  color: rgb(143, 118, 255);
+  filter: drop-shadow(0 0 2px black);
+}
+
+.hook {
+  max-height: 48px;
+}
+
+.teacher {
+  max-height: 64px;
+}
+
+main {
+  display: grid;
+}
+
+main > div {
+  padding: 1rem 0;
+  border-top: 1px solid hsla(0, 0%, 0%, 0.3);
+}
+
+h2 {
+  font-size: 1.4rem;
+  color: rgb(143, 118, 255);
+  filter: drop-shadow(0 0 2px black);
+}
+
+ul {
+  list-style-position: inside;
+}

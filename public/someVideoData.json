@@ -1,0 +1,30 @@
+[
+  {
+    "id": "dQw4w9WgXcQ",
+    "title": "Never Gonna Give You Up",
+    "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "rating": 23,
+    "favourite": true
+  },
+  {
+    "id": "HerCR8bw_GE",
+    "title": "The Coding Train",
+    "url": "https://www.youtube.com/watch?v=HerCR8bw_GE",
+    "rating": 230,
+    "favourite": false
+  },
+  {
+    "id": "FUeyrEN14Rk",
+    "title": "Mac & Cheese | Basics with Babish",
+    "url": "https://www.youtube.com/watch?v=FUeyrEN14Rk",
+    "rating": 2111,
+    "favourite": true
+  },
+  {
+    "id": "xbs7FT7dXYc",
+    "title": "Videos for Cats to Watch - 8 Hour Bird Bonanza",
+    "url": "https://www.youtube.com/watch?v=xbs7FT7dXYc",
+    "rating": 11,
+    "favourite": false
+  }
+]
